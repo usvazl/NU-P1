@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<! -- Luiz Vaz 07/21/2018 -->
 <html lang="en">
 <head>
 	<title>Cycle Out Cancer Home Page</title>
